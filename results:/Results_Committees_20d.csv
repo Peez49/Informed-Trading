@@ -1,0 +1,9 @@
+Portfolio,Alpha_Ann,Alpha_tstat,Mkt_Beta,Mkt_tstat,SMB,HML,UMD,Adj_R2,N_obs,Alpha_Ann_%
+House Committee on Armed Services_Sell_20d,-4.43,-0.63,1.0,27.32,0.1,0.0,-0.2,0.468,2449,-4.43
+House Committee on Armed Services_Buy_20d,2.51,0.39,1.13,29.48,0.11,0.05,-0.17,0.539,2398,2.51
+House Committee on Financial Services_Sell_20d,-13.32,-1.81,1.07,41.11,0.2,0.22,-0.26,0.571,2144,-13.32*
+House Committee on Financial Services_Buy_20d,-5.11,-0.82,1.11,20.61,-0.02,0.36,-0.12,0.57,2140,-5.11
+House Committee on Energy and Commerce_Sell_20d,-8.72,-1.27,0.79,22.11,-0.08,0.03,-0.04,0.355,1999,-8.72
+House Committee on Energy and Commerce_Buy_20d,-6.03,-0.85,0.85,26.15,0.09,0.0,-0.09,0.418,1766,-6.03
+"Senate Committee on Banking, Housing, and Urban Affairs_Sell_20d",-61.53,-1.2,0.96,2.94,0.39,0.78,0.01,0.08,701,-61.53
+"Senate Committee on Banking, Housing, and Urban Affairs_Buy_20d",-4.36,-0.12,0.45,0.69,1.22,1.85,0.65,0.056,698,-4.36
